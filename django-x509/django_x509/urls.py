@@ -4,4 +4,8 @@ This file exists only to maintain backward compatibility.
 """
 
 app_name = 'x509'  # pragma: no cover
-urlpatterns = []  # pragma: no cover
+urlpatterns = [
+    
+
+    
+    ]  # pragma: no cover
